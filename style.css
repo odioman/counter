@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(218, 213, 213);
+}
+.count {
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5rem;
+}
+
+button {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+    font-size: 2rem;
+}
+
+.decrement:hover {
+    background-color: red;
+}
+
+.increment:hover {
+    background-color: green;
+}
+
+.reset:hover {
+    background-color: white;
+    color: black;
+}
